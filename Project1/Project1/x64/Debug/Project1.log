@@ -1,0 +1,5 @@
+﻿  FYP.cpp
+C:\Users\M. Hashir\OneDrive - Higher Education Commission\Bahria University\Computer Programming\Quizzes\Project\Project1\Project1\FYP.cpp(37,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\M. Hashir\OneDrive - Higher Education Commission\Bahria University\Computer Programming\Quizzes\Project\Project1\Project1\FYP.cpp(997,7): warning C4551: function call missing argument list
+C:\Users\M. Hashir\OneDrive - Higher Education Commission\Bahria University\Computer Programming\Quizzes\Project\Project1\Project1\FYP.cpp(1432,7): warning C4551: function call missing argument list
+C:\Users\M. Hashir\OneDrive - Higher Education Commission\Bahria University\Computer Programming\Quizzes\Project\Project1\Project1\FYP.cpp(1482,4): error C2059: syntax error: '}'
